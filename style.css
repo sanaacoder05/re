@@ -1,0 +1,23 @@
+  body
+  {
+    color:white;
+    background-image: linear-gradient(to bottom right,black,navy,navy,darkblue);
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    box-shadow: gray solid 13px;
+    width: 350px;
+    height: 300px; 
+  }
+  .name_of_emotion, #result_object_name  , #result_object_accuracy
+  {
+    color:beige;
+    font-family: impact;
+    font-size: 24px;
+  }
